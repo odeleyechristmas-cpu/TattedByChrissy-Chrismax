@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>        Tat by Chrissy - Home</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <!-- Header & Navigation -->
+    <header>
+        <div class="logo">
+            <image src="images/logo.png" alt="Tat by Chrissy Logo" class="logo-image">
+            <h1>Tat by Chrissy</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Area -->
+    <main>
+        <!-- Hero Section -->
+        <section class="hero">
+            <h2>Artistry, Confidence & Self-Care</h2>
+            <p>Your premier studio for custom tattoos, precision piercings, quality nail design, and aftercare skin products.</p>
+            <a href="enquiry.html" class="btn">Book a Consultation</a>
+            <a href="services.html" class="btn">Explore Services</a>
+        </section>
+
+        <!-- Brief Welcome Section -->
+        <section class="welcome">
+            <h2>Welcome to Tat by Chrissy</h2>
+            <img src="images/place.png" alt="Welcome to Tat by Chrissy" class= "width="300" height="300"
+            >
+            <p>We are a multi-service studio dedicated to bringing your artistic vision to life in a clean, welcoming environment. Whether you are getting your first tattoo, a new piercing, or treating yourself to nail and skin care, our specialists are here for you.</p>
+        </section>
+
+        <!-- Service Highlights Grid -->
+        <section class="highlights">
+            <h3>What We Offer</h3>
+            <div class="service-card">
+                <h4>Custom Tattoos</h4>
+                <img src="images/inking.png" alt="Custom Tattoos" class= "width="300" height="300"
+                >
+                <p>Fine-line, minimalist, and detailed custom tattoo art.</p>
+            </div>
+            <div class="service-card">
+                <h4>Piercings</h4>
+                <img src="images/belly.png" alt="Piercings" class= "width="300" height="300"
+                >
+                <p>Hygienic body piercing services with aftercare support.</p>
+            </div>
+            <div class="service-card">
+                <h4>Nail Lounge</h4>
+        
+                <p>Gel, acrylic, and custom nail art designed for your style.</p>
+            </div>
+            <div class="service-card">
+                <h4>Beauty & Skincare</h4>
+                <img src="images/cream.png" alt="Beauty & Skincare" class= "width="300" height="300"
+            >
+                <p>Soothing treatments and aftercare healing products.</p>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Area -->
+    <footer>
+        <p>&copy; 2026 Tat by Chrissy. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
